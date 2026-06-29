@@ -245,10 +245,11 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: #48ff00;
+  color: #32a305;
   font-weight: 600;
   padding: 1rem 0;
 }
+
 .home .btn {
   margin-top: 1rem;
   position: absolute;
