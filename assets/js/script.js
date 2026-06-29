@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Subir Biswas";
-            $("#favicon").attr("href", "../assets/images/Subir_Icon.png");
+            $("#favicon").attr("href", "./assets/images/Subir_Icon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "../assets/images/favhand.png");
+            $("#favicon").attr("href", "./assets/images/favhand.png");
         }
     });
 
