@@ -1,0 +1,35 @@
+[
+  {
+    "name": "🌿 MangiferaNet ",
+    "desc": "MangiferaNet: A Lightweight Deep Learning Framework for Automated Mango Leaf Disease Detection and Web-Based Diagnosis.",
+    "image": "web-mango",
+    "category": "app",
+    "links": {
+      "view": "https://huggingface.co/spaces/Subir19/mango-leaf-disease-classifier",
+      "code": "https://github.com/subirbiswas192001/Web-Based-Application-For-Mango-Leaf-Disease-Classification"
+    }
+  },
+  {
+    "name": "console-programming-showcase",
+    "desc": "terminal-based projects and games developed using C and C++.",
+    "image": "console-programminge",
+    "category": "app game",
+    "links": {
+      "view": "https://github.com/subirbiswas192001/cpp-c-mini-project-collection/blob/main/README.md",
+      "code": "https://github.com/subirbiswas192001/cpp-c-mini-project-collection/tree/main"
+    }
+  },
+  {
+    "name": "java-car-rental-system",
+    "desc": "A console-based car rental management system developed in Java using object-oriented programming principles.",
+    "image": "Car-rental-systam",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/subirbiswas192001/car_rantal_system/blob/main/README.md",
+      "code": "https://github.com/subirbiswas192001/car_rantal_system"
+    }
+  }
+
+  
+
+]
